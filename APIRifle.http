@@ -1,0 +1,10 @@
+@routerURL = http://localhost:5136
+
+###
+GET {{routerURL}}/api/rifle
+Accept: application/json
+
+
+
+
+
