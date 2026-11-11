@@ -58,7 +58,7 @@ La clase `Rifle` tiene los siguientes atributos:
 
 | Temática | Definición |
 |----------|------------|
-| **Encapsulamiento** | Principio de la POO que consiste en proteger los datos de una clase y controlar cómo se accede a ellos, usando modificadores de acceso (`private`, `public`) y propiedades (`get` / `set`). |
+| **Encapsulamiento** | Principio de la POO que consiste en proteger los datos de una clase y controlar cómo se accede a ellos, usando modificadores de acceso (`public`) y propiedades (`get` / `set`). |
 | **Protocolos HTTP** | Conjunto de reglas con las que cliente y servidor se comunican en la web. Cada método indica una acción: `GET` consulta, `POST` crea, `PUT` actualiza y `DELETE` elimina. |
 | **Controllers** | Clases que reciben las solicitudes HTTP del usuario, ejecutan la lógica necesaria y devuelven la respuesta del servidor. Son el punto de entrada de la API. |
 | **Herencia** | Mecanismo de la POO por el cual una clase (hija) reutiliza los atributos y métodos de otra (base), pudiendo ampliarlos o modificarlos. En este proyecto, `RifleController` hereda de `ControllerBase`. |
