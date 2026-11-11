@@ -9,7 +9,7 @@ API REST básica desarrollada en **C#** para gestionar un catálogo de los rifle
 
 
 
-![.NET](https://img.shields.io/badge/.NET-[versión]-512BD4?logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-11-512BD4?logo=dotnet&logoColor=white)
 
 
 
@@ -126,4 +126,4 @@ dotnet run
 ## 👤 Autor
 
 **Angel Simancas**  
-[GitHub](https://github.com/AngelSimanc007)
+[GitHub](https://github.com/AngelSimanc4007)
