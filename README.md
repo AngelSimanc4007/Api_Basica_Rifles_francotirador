@@ -125,5 +125,5 @@ dotnet run
 
 ## 👤 Autor
 
-**[Tu nombre]**  
-[GitHub](https://github.com/[tu-usuario])
+**Angel Simancas**  
+[GitHub](https://github.com/AngelSimanc007)
